@@ -22,5 +22,5 @@ export default {
     ],
     logo: "/images/iconmonstr-carousel-filled.svg",
   }),
-  base: "/mtm6302-20-week2/",
+  //base: "/mtm6302-20-week2/",
 };
